@@ -1,0 +1,8 @@
+Receipt number: 1
+Issue date: 2022-05-25
+Issue time: 14:39
+Cashier: Vanq N:1
+[Goods{id=1, name='Qbalka', deliveryPrice=50, goodsType=GROCERIES, expireDate=2023-01-30} price: 60.0 quantity: 10
+, Goods{id=3, name='Mlqko', deliveryPrice=20, goodsType=GROCERIES, expireDate=2023-01-30} price: 24.0 quantity: 5
+]
+Total: 720.0

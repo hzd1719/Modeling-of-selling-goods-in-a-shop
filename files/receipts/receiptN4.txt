@@ -1,0 +1,8 @@
+Receipt number: 4
+Issue date: 2022-05-25
+Issue time: 14:39
+Cashier: Gogo N:2
+[Goods{id=2, name='Stol', deliveryPrice=10, goodsType=ITEMS, expireDate=2023-01-30} price: 12.0 quantity: 10
+, Goods{id=1, name='Qbalka', deliveryPrice=50, goodsType=GROCERIES, expireDate=2023-01-30} price: 60.0 quantity: 8
+]
+Total: 600.0

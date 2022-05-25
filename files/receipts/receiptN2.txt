@@ -1,0 +1,8 @@
+Receipt number: 2
+Issue date: 2022-05-25
+Issue time: 14:39
+Cashier: Minchu N:5
+[Goods{id=1, name='Qbalka', deliveryPrice=50, goodsType=GROCERIES, expireDate=2023-01-30} price: 60.0 quantity: 1
+, Goods{id=4, name='Masa', deliveryPrice=200, goodsType=ITEMS, expireDate=2022-05-26} price: 192.00 quantity: 2
+]
+Total: 444.00

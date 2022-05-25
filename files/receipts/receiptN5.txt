@@ -1,0 +1,7 @@
+Receipt number: 5
+Issue date: 2022-05-25
+Issue time: 14:39
+Cashier: Minchu N:5
+[Goods{id=4, name='Masa', deliveryPrice=200, goodsType=ITEMS, expireDate=2022-05-26} price: 192.00 quantity: 5
+]
+Total: 960.00
